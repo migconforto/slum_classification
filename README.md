@@ -1,3 +1,10 @@
+# Images
+Link para as Imagens: [images](https://drive.google.com/drive/folders/1qlA6vpzEmykIpxV55fhSHC_tE-KNYxhD?usp=sharing)
+
+# Masks
+Link para as máscaras: [masks](https://drive.google.com/drive/folders/1xT5Xke3cLmfi-Lqu6SQdU5dPWo9GnxwG?usp=sharing)
+
+# Resumo dos resultados
 Favelas e comunidades urbanas possuem uma dinâmica própria de expansão e esta dinâmica traz consigo
 uma demanda por políticas públicas específicas para essas áreas. Para garantir políticas públicas adequadas 
 é importante acompanhar as modificações ocorridas ao longo do tempo, 
@@ -39,3 +46,6 @@ Os resultados para cada classificador podem ser observados na imagem e tabela ab
 | Naive-Bayes | 62.0% | 22.2% | 66.1% | 33.2% | 50.6% |
 | K-Means | 53.3% | 15.0% | 48.7% | 23.0% | 54.2% |
 | Logistic-Regression | 85.4% | 47.5% | 17.0% | 25.1% | 51.0% |
+
+Link para as Imagens: [images](https://drive.google.com/drive/folders/1qlA6vpzEmykIpxV55fhSHC_tE-KNYxhD?usp=sharing)
+Link para as máscaras: [masks](https://drive.google.com/drive/folders/1xT5Xke3cLmfi-Lqu6SQdU5dPWo9GnxwG?usp=sharing)
